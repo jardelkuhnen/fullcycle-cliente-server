@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Bailey 👋</h1>
+<h1 align="center">Welcome 👋</h1>
 
 
 > Desafio criado para demonstrar conhecimentos adquiridos durante o curso FullCyle GoExpert
